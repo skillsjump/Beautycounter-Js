@@ -1,0 +1,3 @@
+# Beautycounter-Js
+
+`JS fundamentals`
