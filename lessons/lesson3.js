@@ -60,7 +60,7 @@ while(x>0){
     x = x - 1
 }
 
-// recursive function
+// recursive function (function that calls itself)
 function countDown(fromNumber){
     console.log(fromNumber)
     let nextNumber = fromNumber - 1
